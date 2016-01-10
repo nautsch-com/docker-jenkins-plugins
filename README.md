@@ -22,4 +22,4 @@ You can use the following URI to get all available plugins:
 
 #### Tags:
 
-* latest
+* latest [(Dockerfile)](https://github.com/nautsch-com/docker-jenkins-plugins/blob/master/Dockerfile)
