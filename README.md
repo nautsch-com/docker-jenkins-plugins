@@ -15,8 +15,8 @@ a container of the official [Jenkins](https://hub.docker.com/_/jenkins/) image:
 ##### Change the plugins
 
 Clone/fork the repo and change the content of the `excl-plugins.txt` and
-`incl-plugins.txt` files. Use the name attribute from the plugin.
-You can use the following URI to get all available plugins:
+`incl-plugins.txt` files. Use the *name* attribute of the plugin. All attributes and
+the full description of all available plugins:
 
 [http://updates.jenkins-ci.org/stable/update-center.json](http://updates.jenkins-ci.org/stable/update-center.json)
 
