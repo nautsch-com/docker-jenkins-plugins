@@ -22,4 +22,4 @@ You can use the following URI to get all available plugins:
 
 #### Tags:
 
-* latest [(Dockerfile)](https://github.com/nautsch-com/docker-jenkins-plugins/blob/master/Dockerfile)
+* latest [(Dockerfile)](https://github.com/nautsch-com/docker-jenkins-plugins/blob/master/Dockerfile) [![](https://badge.imagelayers.io/nautsch/jenkins-plugins:latest.svg)](https://imagelayers.io/?images=nautsch/jenkins-plugins:latest 'Get your own badge on imagelayers.io')
