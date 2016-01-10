@@ -1,6 +1,6 @@
-build-flow-plugin
-buildgraph-view
+build-pipeline-plugin
 cloudbees-folder
+dashboard-view
 gradle
 job-dsl
 plugin-usage-plugin
